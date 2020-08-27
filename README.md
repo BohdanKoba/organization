@@ -13,4 +13,9 @@
   - Print Company Departments ordered by current monthly budget(hourly and monthly salary should be counted properly based on number of working hours in current month)
   - Print Company Departments ordered by number of employee
   - Print Company and its budget for current month
+  
+  ## Technical Requirements
+  - Build tool: Maven/Gradle
+  - Programming language: Java 11+
+  - Implement unit test
  
